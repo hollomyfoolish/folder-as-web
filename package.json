@@ -1,0 +1,26 @@
+{
+  "name": "folder-as-web",
+  "version": "1.0.0",
+  "description": "a simple tool that make folder to be a web application powerd by express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollomyfoolish/folder-as-web.git"
+  },
+  "keywords": [
+    "folder",
+    "web"
+  ],
+  "author": "hollomyfoolish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hollomyfoolish/folder-as-web/issues"
+  },
+  "homepage": "https://github.com/hollomyfoolish/folder-as-web#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
