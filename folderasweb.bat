@@ -1,1 +1,1 @@
-node C:\github-repo\folder-as-web\app.js %1
+node C:\mywork\github\folder-as-web\app.js %1
